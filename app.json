@@ -6,7 +6,7 @@
         "Mongo DB"
     ],
     "repository": "https://github.com/parthgupta74647/rename-bot",
-    "success_url": "https://telegram.dog/CrazeBots",
+    "success_url": "https://telegram.dog/parthgupta74647",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org ",
